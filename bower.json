@@ -1,0 +1,28 @@
+{
+  "name": "angular-base-app",
+  "description": "angular js basic project structure",
+  "main": "server.js",
+  "authors": [
+    "Vivek Jain"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "express",
+    "angular.js",
+    "bootstrap"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.7",
+    "bootstrap": "3"
+  }
+}
